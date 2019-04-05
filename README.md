@@ -1,7 +1,7 @@
 # kafka-demo
 uses docker container underneath to bring up zookeeper and kafka
 
-a simple demo application demonstrating a producer and client can be simply brought up using the script
+a simple demo application demonstrating a producer and client can be brought up using the script
 start-broker-and-client.sh
 
 then start the normal spring-boot app
