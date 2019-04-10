@@ -1,5 +1,5 @@
 # kafka-demo
-uses docker container underneath to bring up zookeeper and kafka
+# uses docker container underneath to bring up zookeeper and kafka
 
 a simple demo application demonstrating a producer and client can be brought up using the script
 start-broker-and-client.sh
